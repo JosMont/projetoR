@@ -5,3 +5,5 @@ library(tidyverse)
 # Versão 5
 # Versão 6
 mutate()
+join()
+select()
