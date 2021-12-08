@@ -7,3 +7,7 @@ sumarize()
 # Novas linhas de comando
 join()
 select()
+# versão 3
+# alterações remotas
+# Novos comandos
+
