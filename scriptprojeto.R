@@ -4,3 +4,6 @@
 mutate()
 rename()
 sumarize()
+# Novas linhas de comando
+join()
+select()
