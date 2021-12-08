@@ -3,3 +3,4 @@
 # Versão 3
 mutate()
 rename()
+sumarize()
