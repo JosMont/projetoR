@@ -10,4 +10,5 @@ select()
 # versão 3
 # alterações remotas
 # Novos comandos
-
+select()
+mutate()
