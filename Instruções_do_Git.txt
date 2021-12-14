@@ -1,1 +1,2 @@
 Instruções variadas.
+Vamos reenviar este arquivo para a branch "nova".
